@@ -1,0 +1,18 @@
+<resources>
+    <string name="navigation_drawer_open">Navigation drawer is open</string>
+    <string name="navigation_drawer_close">Navigation drawer is closed</string>
+    <string name="app_name">Picsum</string>
+    <string name="nav_header_images">Картинки</string>
+    <string name="nav_header_favorite">Избранное</string>
+    <string name="action_random">Рандом</string>
+    <string name="action_add_to_favorite">В избранное</string>
+    <string name="random_failure">Не удалось получить изображение.</string>
+    <string name="add_to_favorite_success">Изображение добавлено в избранное</string>
+    <string name="add_to_favorite_failure">Не удалось добавить в избранное.</string>
+    <string name="add_to_favorite_already_added">Изображение уже есть в избранном.</string>
+    <string name="start_hint">Чтобы начать, нажмите \"Рандом\".</string>
+    <string name="no_internet_connection">Нет интернет-соединения.</string>
+    <string name="favorite_empty">Нет избранных изображений.</string>
+    <string name="image_description">Случайное изображение с picsum.photos</string>
+    <string name="favorite_image_description">Изображение, добавленное в избранное пользователем.</string>
+</resources>
